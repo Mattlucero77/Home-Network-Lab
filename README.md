@@ -9,7 +9,7 @@ This lab aimed to establish a functional small enterprise network by utilizing c
 - Praactical understanding of how a basic enterprise network is configured across sites/subnets
 - Proficiency in troubleshooting network communication issues from various endpoints utilizing tracert and ICMP commands
 - Ability to understand & implement router/multi-layer switch configurations by utlizing knowlege of port connections and the IP addresses associated
-- Enhanced knowledge of network protocols configuration
+- Enhanced knowledge of routing protocol configuration
 - Basic Knowledge of how DHCP, DNS, and HTTP/HTTPS servers are configured to allow end-user functionality
 
 ## Steps
